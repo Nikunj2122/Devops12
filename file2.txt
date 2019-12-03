@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, This is my second file. - file2 
+=======
+Hi, This is Nikunj Rupapara - file2 has been created for git.
+>>>>>>> feature1
